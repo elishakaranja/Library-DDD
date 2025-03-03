@@ -1,0 +1,19 @@
+#CLASSES
+book,library,author,member
+#SSOT 
+book
+#Functions
+-add a book to library
+-borrow a book from library 
+return book to librry 
+Track which member has which books 
+#ATTRIBUTES 
+**book
+  library,title,author,member
+**author
+   name
+**Library 
+   name,book,member 
+**member 
+   name
+
